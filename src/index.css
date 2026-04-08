@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-lined-paper {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 27px,
+    rgba(0, 0, 0, 0.08) 28px
+  );
+}
+
+/* Smooth rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+}
