@@ -1,4 +1,4 @@
-## 📅 Interactive Wall Calendar Component
+# 📅 Interactive Wall Calendar Component
 A modern, interactive wall calendar built using React, inspired by real-world physical calendars. This project focuses on clean UI, smooth animations, and responsive design.
 
 ---
@@ -66,6 +66,8 @@ src/
 ## 🌐 Live Demo
 
 https://interactive-wall-calendar-beryl.vercel.app/
+
+--- 
 
 ## 🚀 How to Run Locally
 
